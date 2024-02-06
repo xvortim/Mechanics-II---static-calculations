@@ -1,0 +1,1 @@
+This was a project for my Mechanics class at university. I used MATLAB to calculate the derivitaves of a function, and later to create a graph for a given interval. In addition, this code calculates the velocity and acceleration of a point at a given time.
